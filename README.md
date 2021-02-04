@@ -7,7 +7,7 @@ python -m pip install django
 
 django-admin startproject <project_name>
 
-cd <project-name>
+cd cafe_bookings
 
 python manage.py makemigrations
 
