@@ -2,6 +2,7 @@
 A Restaurant Web Application using Python + Django
 
 Initial Steps:
+
 python -m pip install django
 
 django-admin startproject <project_name>
